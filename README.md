@@ -1,4 +1,4 @@
 # testing-area
-Web repository for test
+Just for test
 
 link：srd3007.github.io/testing-area
